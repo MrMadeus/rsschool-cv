@@ -18,6 +18,7 @@ The most inttresting areas for me is human-machine interface, data ingineering a
 #Code examples:
 
 #Experience:
+not yet
   
 #Education:
   BSUIR (Telecomunication)
