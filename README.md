@@ -1,3 +1,3 @@
 https://mrmadeus.github.io/rsschool-cv/cv
 
-https://mrmadeus.github.io/rsschool-cv/index
+https://mrmadeus.github.io/rsschool-cv/
